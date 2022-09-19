@@ -1,4 +1,4 @@
 This is my git test!
 I'm doing a git version commit test with this line.
-
+Oh here's the 4th!
 I'm doing a third commit test with this line:)
